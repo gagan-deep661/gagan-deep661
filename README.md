@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gagan-deep661
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning new skills in cybersecurity as an intern at CodeAlpha.
-- 💞️ I’m working on Basic Python Network Sniffer Project.
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently learning new skills in cybersecurity as a Cybersecurity intern at CodeAlpha and a Cybersecuirty and Ethical Hacking Intern at Brainwave Matrix solutions.
+- 💞️ I’m working on various projects relating to cybersecurity as part of my internship.
 - 📫 How to reach me https://www.linkedin.com/in/gagandeep-k-a589b6238
 
 <!---
